@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int tarefa1() {
+int q1() {
     double codigo, quant, valorT;
     scanf("%lf\n%lf", &codigo, &quant);
 

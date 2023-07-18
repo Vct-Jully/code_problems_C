@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(){
+int q3(){
   double nota1, nota2, nota3, media;
 scanf("%lf\n%lf\n%lf", &nota1, &nota2, &nota3);
 
